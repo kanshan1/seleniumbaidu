@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <Parameter name = "a" value = "5000"></Parameter>
+  <Parameter name = "b" value = "7000"></Parameter>
+    <classes>
+      <class name="lx.add"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
